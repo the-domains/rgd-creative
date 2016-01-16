@@ -1,0 +1,28 @@
+name: RGD Creative
+favicon: null
+layout_spectrum: 0.13494343240745366
+typography_spectrum: 0.7673226387705654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#911a10'
+    - '#800000'
+    - '#550000'
+    - '#801a00'
+  brandStrength: 0.2526891091838479
+  lightness: 0.5369553819764405
+  saturation: 0.6030086528044194
+  rhythmicContrast: 0.7107098696287721
+purpose: []
