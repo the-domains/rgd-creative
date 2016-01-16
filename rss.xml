@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RGD Creative]]></title>
         <description><![CDATA[RGD Creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rgd-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 03:57:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 03:57:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rgd-creative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HOME]]></title>
+            <description><![CDATA[<article><h1>HOME</h1><p>A portfolio site for Rob Gilchrist Design (RGD)</p><img src="https://static1.squarespace.com/static/52901f91e4b049dd0c9efd74/t/56144686e4b094b629347ce4/1449458536393/?format=1000w"></article>]]></description>
+            <link>http://www.rgdcreative.com/</link>
+            <guid isPermaLink="false">f8ab45b9-588d-4c49-9b79-ad9dca53b714</guid>
+            <pubDate>Sat, 16 Jan 2016 03:57:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c58c1fe0-44d5-4841-995d-91bba150bec1.jpg">]]></description>
-            <link>undefined0ddd2a32-4532-4ee3-a2c3-7822d3b64051/index.html</link>
+            <link>https://thegrid.ai/rgd-creative/0ddd2a32-4532-4ee3-a2c3-7822d3b64051/index.html</link>
             <guid isPermaLink="false">0ddd2a32-4532-4ee3-a2c3-7822d3b64051</guid>
             <pubDate>Sat, 16 Jan 2016 03:57:04 GMT</pubDate>
         </item>
